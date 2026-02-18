@@ -4,13 +4,13 @@ import sys
 
 pygame.init()
 
-# Window settings
+# visualizer Window settings here
 WIDTH = 900
 HEIGHT = 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("GG")
 
-# Colors
+# Colors use in the window
 WHITE = (255, 255, 255)
 BLUE = (50, 150, 255)
 RED = (255, 80, 80)
@@ -23,7 +23,7 @@ FONT = pygame.font.SysFont("arial", 20)
 def generate_array(size):
     return [random.randint(50, 500) for i in range(size)]
 
-# Draw bars
+# Draw bars (bar ke size ke liya)
 def draw_array(arr, color_positions={}, speed=60):
     WIN.fill(WHITE)
     bar_width = WIDTH // len(arr)
