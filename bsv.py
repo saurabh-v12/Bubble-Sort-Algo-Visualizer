@@ -23,7 +23,7 @@ FONT = pygame.font.SysFont("arial", 20)
 def generate_array(size):
     return [random.randint(50, 500) for i in range(size)]
 
-# Draw bars (bar ke size ke liya)
+# Draw bars
 def draw_array(arr, color_positions={}, speed=60):
     WIN.fill(WHITE)
     bar_width = WIDTH // len(arr)
@@ -40,7 +40,7 @@ def draw_array(arr, color_positions={}, speed=60):
 
     pygame.display.update()
 
-# Bubble sort gen ka part
+# Bubble sort generator
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -79,9 +79,8 @@ def main():
                 sorting = False
         else:
             draw_array(arr)
-# hardware ke controll wale.
+# Hardware Control codes
         for event in pygame.event.get():
-            #agar window close kar diya to quite kar do
             if event.type == pygame.QUIT:
                 running = False
 
