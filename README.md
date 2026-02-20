@@ -1,4 +1,9 @@
 # Bubble Sort Algorithm Visualizer
+<img width="1120" height="786" alt="image" src="https://github.com/user-attachments/assets/fb4ff55a-c50c-4f30-a51b-1d7377cbfaa7" />
+<img width="1121" height="783" alt="image" src="https://github.com/user-attachments/assets/1cdae952-1d66-4fc1-abd7-24afb9a75cd4" />
+<img width="1120" height="779" alt="image" src="https://github.com/user-attachments/assets/fe53e5ee-a0f3-4b4e-a20b-573ae24d8f71" />
+
+
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/saurabh-v12/Bubble-Sort-Algo-Visualizer)
 
 This project provides a simple visualizer for the Bubble Sort algorithm, created using Python and the Pygame library. It helps in understanding the inner workings of Bubble Sort by representing an array as vertical bars and animating the comparison and swapping steps.
