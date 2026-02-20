@@ -1,8 +1,17 @@
 # Bubble Sort Algorithm Visualizer
-<img width="1120" height="786" alt="image" src="https://github.com/user-attachments/assets/fb4ff55a-c50c-4f30-a51b-1d7377cbfaa7" />
-<img width="1121" height="783" alt="image" src="https://github.com/user-attachments/assets/1cdae952-1d66-4fc1-abd7-24afb9a75cd4" />
-<img width="1120" height="779" alt="image" src="https://github.com/user-attachments/assets/fe53e5ee-a0f3-4b4e-a20b-573ae24d8f71" />
-
+<table align="center">
+    <tr>
+        <td>
+            <img src="https://github.com/user-attachments/assets/fb4ff55a-c50c-4f30-a51b-1d7377cbfaa7" height="200px" />
+        </td>
+        <td>
+            <img src="https://github.com/user-attachments/assets/1cdae952-1d66-4fc1-abd7-24afb9a75cd4" height="200px" />
+        </td>
+        <td>
+            <img src="https://github.com/user-attachments/assets/fe53e5ee-a0f3-4b4e-a20b-573ae24d8f71" height="200px" />
+        </td>
+    </tr>
+</table>
 
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/saurabh-v12/Bubble-Sort-Algo-Visualizer)
 
